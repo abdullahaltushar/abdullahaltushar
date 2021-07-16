@@ -7,7 +7,7 @@
 <h5>👯 Fun fact: I love to watch movies, TV Serials and Travel</h5>
 <h5>🥅 Fun Goals: Learn to Cook, Travel many countries around the world</h5>
 <h4>Connect with me:</h4>
-<a href="https://www.facebook.com/abdullahaltushar1212"> <image url=""https://www.facebook.com/></a>
+<a href="https://www.facebook.com/abdullahaltushar1212">Facebook</a>
 Subangkar | LinkedInSubangkar | TwitterSubangkar | Instagram
 
 
@@ -16,8 +16,8 @@ abdullahaltushar/abdullahaltushar is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-Programming Languages:
-Python C++ C Java JavaScript c# php 
+<h4>Programming Languages:</h4>
+<p>Python</p> <p>C++</p> <p>C</P> <p>Java</p> <p>JavaScript</P> <p>c#</p> <p>php</p> 
 Frameworks & Tools:
 
 
