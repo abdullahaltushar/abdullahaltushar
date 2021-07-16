@@ -8,7 +8,7 @@
 <p>🥅 Fun Goals: Learn to Cook, Travel many countries around the world</p>
 <p>Connect with me:</p>
 <a href="https://www.facebook.com/abdullahaltushar1212"><img height="50px" weight="50" src="fb.png"/></a>
-Subangkar | LinkedInSubangkar | TwitterSubangkar | Instagram
+<a href="https://www.linkedin.com/in/harunur-roshid/"><img height="50px" weight="50" src="likedin.png"/></a>
 <hr>
 
 
@@ -18,13 +18,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h4>Programming Languages:</h4>
-        <ul>
-             <li><a href="index.html"> Home </a></li>
-             <li class="ninja"><a href="about.html"> About </a></li>
-             <li><a href="contact.html"> Contact </a></li>
-         </ul>
-<p>Python</p> <p>C++</p> <p>C</P> <p>Java</p> <p>JavaScript</P> <p>c#</p> <p>php</p> 
-Frameworks & Tools:
+      <li><a href="https://www.python.org/"> Python </a></li>
+      <li><a href="https://en.wikipedia.org/wiki/C%2B%2B"> C++ </a></li>
+      <li><a href="https://en.wikipedia.org/wiki/C_(programming_language)"> C </a></li>
+       <li><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"> Java </a></li>
+      <li><a href="https://en.wikipedia.org/wiki/JavaScript"> JavaScript </a></li>
+      <li><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> C# </a></li>
+       <li><a href="https://en.wikipedia.org/wiki/PHP"> php </a></li>
+     
 
 
 
