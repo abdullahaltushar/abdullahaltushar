@@ -7,7 +7,7 @@
 <h5>👯 Fun fact: I love to watch movies, TV Serials and Travel</h5>
 <h5>🥅 Fun Goals: Learn to Cook, Travel many countries around the world</h5>
 <h4>Connect with me:</h4>
-<a href="https://www.facebook.com/abdullahaltushar1212">Facebook<img src="-11595326936asbkomoamd.png"/></a>
+<a href="https://www.facebook.com/abdullahaltushar1212">Facebook<img height="50px" weight="50" src="-11595326936asbkomoamd.png"/></a>
 Subangkar | LinkedInSubangkar | TwitterSubangkar | Instagram
 
 
