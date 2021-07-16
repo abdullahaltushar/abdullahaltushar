@@ -1,13 +1,13 @@
-<h1>Hi there, I'm Harunur Roshid 👋</h1>
-<h3>I'm currently a CSE graduate from BGC Trust University Bangladesh</h3>
-<br/>
+<h2>Hi there, I'm Harunur Roshid 👋</h1>
+<h4>I'm currently a CSE graduate from BGC Trust University Bangladesh</h3>
 <br/>
 
 <h5>⚡ I'm a Backend Developer and front End Developer.</h5>
-⚡ I'm interested in Deep Learning and Machine Learning
-👯 Fun fact: I love to watch movies, TV Serials and Travel
-🥅 Fun Goals: Learn to Cook, Travel many countries around the world
-Connect with me:
+<h5>⚡ I'm interested in Deep Learning and Machine Learning</h5>
+<h5>👯 Fun fact: I love to watch movies, TV Serials and Travel</h5>
+<h5>🥅 Fun Goals: Learn to Cook, Travel many countries around the world</h5>
+<h4>Connect with me:</h4>
+<a href="https://www.facebook.com/abdullahaltushar1212"> <image url=""https://www.facebook.com/></a>
 Subangkar | LinkedInSubangkar | TwitterSubangkar | Instagram
 
 
