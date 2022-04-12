@@ -1,5 +1,5 @@
 <h2>Hi there, I'm Harunur Roshid 👋</h1>
-<h4>I'm currently a CSE graduate from BGC Trust University Bangladesh</h3>
+<h4>I'm a CSE graduate from BGC Trust University Bangladesh</h3>
 <br/>
 
 <p>⚡ I'm a Backend Developer and front End Developer.</p>
