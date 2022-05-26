@@ -2,8 +2,8 @@
 <h4>I'm a CSE graduate from BGC Trust University Bangladesh</h3>
 <br/>
 
-<p>⚡ I'm a Backend Developer and front End Developer.</p>
-<p>⚡ I'm interested in Deep Learning and Machine Learning</p>
+<p>⚡ I'm a Data Science and Machine Learning Engineer.</p>
+<p>⚡ I'm interested in Deep Learning, Natural Language Processing and Advance AI</p>
 <p>👯 Fun fact: I love to watch movies, TV Serials and Travel</p>
 <p>🥅 Fun Goals: Learn to Cook, Travel many countries around the world</p>
 <p>Connect with me:</p>
