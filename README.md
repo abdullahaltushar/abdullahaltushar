@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h4>Programming Languages:</h4>
-      <li><a href="https://www.python.org/"> Python </a></li>
+      <li><a href="https://github.com/abdullahaltushar/Python"> Python </a></li>
       <li><a href="https://en.wikipedia.org/wiki/C%2B%2B"> C++ </a></li>
       <li><a href="https://en.wikipedia.org/wiki/C_(programming_language)"> C </a></li>
        <li><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"> Java </a></li>
