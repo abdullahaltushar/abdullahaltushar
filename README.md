@@ -104,20 +104,20 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 <!---
 abdullahaltushar/abdullahaltushar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
 
-<!-- <h4>Programming Languages:</h4>
+
+ <h4>Programming Languages:</h4>
       <li><a href="https://github.com/abdullahaltushar/Python"> Python </a></li>
       <li><a href="https://en.wikipedia.org/wiki/C%2B%2B"> C++ </a></li>
       <li><a href="https://en.wikipedia.org/wiki/C_(programming_language)"> C </a></li>
        <li><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"> Java </a></li>
       <li><a href="https://en.wikipedia.org/wiki/JavaScript"> JavaScript </a></li>
       <li><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> C# </a></li>
-       <li><a href="https://en.wikipedia.org/wiki/PHP"> php </a></li> -->
+       <li><a href="https://en.wikipedia.org/wiki/PHP"> php </a></li> 
+  --->    
      
 
 
- -->
                     
                         
                     
