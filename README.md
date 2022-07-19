@@ -10,6 +10,7 @@
 <a href="https://www.facebook.com/abdullahaltushar1212"><img height="50px" weight="50" src="fb.png"/></a>
 <a href="https://www.linkedin.com/in/harunur-roshid/"><img height="50px" weight="50" src="likedin.png"/></a>
 <a href="https://www.youtube.com/channel/UCkJVcalpACU8LNYMS37tHKQ/"><img height="50px" weight="50" src="youtube.png"/></a>
+<a href="https://twitter.com/Harunur93214683/"><img height="50px" weight="50" src="twitter.png"/></a>
 <hr>
 
 
