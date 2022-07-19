@@ -74,8 +74,6 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 <a href="https://www.facebook.com/abdullahaltushar1212" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/sarah.hart.landolt" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
   <a href="https://www.youtube.com/channel/UCkJVcalpACU8LNYMS37tHKQ/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
