@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="giphy.webp" width="100"/>
+  <img src="giphy(1).gif" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/harunur-roshid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,6 +11,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<h1>
+  Hi there
+  <img src="giphy.gif" width="30px"/>
+</h1>
 </div>
 
 <h2>Hi there, I'm Harunur Roshid 👋</h1>
