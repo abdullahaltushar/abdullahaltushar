@@ -21,6 +21,10 @@
 <div align="center">
   <img src="giphy.gif" width="600" height="300"/>
 </div>
+---
+
+### :woman_technologist: About Me :
+I am a Machine Learning And Data Science Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
 <h2>Hi there, I'm Harunur Roshid 👋</h1>
