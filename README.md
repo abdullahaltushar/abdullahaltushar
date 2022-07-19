@@ -49,6 +49,8 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
   <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;</a>
   <a href=""></a>
 </div>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdullahaltushar&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <h2>Hi there, I'm Harunur Roshid 👋</h1>
