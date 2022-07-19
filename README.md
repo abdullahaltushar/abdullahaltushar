@@ -48,10 +48,11 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
   <a href="https://github.com/abdullahaltushar/Diagnosis_Cost_and_Doctor_Information-system"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
   <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;</a>
   <a href=""></a>
-</div>
+  
 ### :fire: My Stats :
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdullahaltushar&theme=dark&background=000000)](https://git.io/streak-stats)
-
+</div>
 
 <h2>Hi there, I'm Harunur Roshid 👋</h1>
 <h4>I'm a CSE graduate from BGC Trust University Bangladesh</h3>
