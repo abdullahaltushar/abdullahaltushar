@@ -21,11 +21,17 @@
 <div align="center">
   <img src="giphy.gif" width="600" height="300"/>
 </div>
----
 
 ### :woman_technologist: About Me :
 I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="30"> from Bangladesh <img src="flag.png" width="30">.
 
+- :telescope: I'm interested in Deep Learning, Natural Language Processing and Advance AI.
+
+- :seedling: Fun fact: I love to watch movies, TV Serials and Travel
+
+- :zap: Fun Goals: Learn to Cook, Travel many countries around the world.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harunur-roshid/)
 
 <h2>Hi there, I'm Harunur Roshid 👋</h1>
 <h4>I'm a CSE graduate from BGC Trust University Bangladesh</h3>
