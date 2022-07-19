@@ -1,11 +1,9 @@
+<div id="header" align="center">
+  <img src="giphy.gif" width="100"/>
+</div>
 <h2>Hi there, I'm Harunur Roshid 👋</h1>
 <h4>I'm a CSE graduate from BGC Trust University Bangladesh</h3>
 <br/>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <p>⚡ I'm a Data Science and Machine Learning Engineer.</p>
 <p>⚡ I'm interested in Deep Learning, Natural Language Processing and Advance AI</p>
 <p>👯 Fun fact: I love to watch movies, TV Serials and Travel</p>
