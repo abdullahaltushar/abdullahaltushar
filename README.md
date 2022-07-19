@@ -48,11 +48,12 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
   <a href="https://github.com/abdullahaltushar/Diagnosis_Cost_and_Doctor_Information-system"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
   <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;</a>
   <a href=""></a>
-
+<div>
 ### :fire: My Stats :
-<p>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdullahaltushar&theme=dark&background=000000)](https://git.io/streak-stats)</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdullahaltushar&theme=dark&background=000000)](https://git.io/streak-stats)
   
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaltushar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaltushar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
   
   
