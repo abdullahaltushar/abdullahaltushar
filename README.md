@@ -34,7 +34,6 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harunur-roshid/)
 
 ### :hammer_and_wrench: Languages and Tools :
- </div>
 <div>
   <a href="https://github.com/abdullahaltushar/Python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/abdullahaltushar/Java"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a>
@@ -48,9 +47,7 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
   <a href="https://github.com/abdullahaltushar/Diagnosis_Cost_and_Doctor_Information-system"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
   <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;</a>
   <a href=""></a>
-  
- 
-    </div>
+</div>
 
 ## :fire: My Stats :
   
