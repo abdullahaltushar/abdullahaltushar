@@ -50,11 +50,10 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 </div>
 
 ## :fire: My Stats :
-  
- 
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdullahaltushar&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaltushar&layout=compact&theme=vision-friendly-dark)](https://github.com/abdullahaltushar)
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdullahaltushar&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaltushar&theme=vue" />
+</p>
 
   
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
