@@ -34,7 +34,7 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harunur-roshid/)
 
 ### :hammer_and_wrench: Languages and Tools :
-
+ </div>
 <div>
   <a href="https://github.com/abdullahaltushar/Python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/abdullahaltushar/Java"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a>
@@ -50,13 +50,14 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
   <a href=""></a>
   
   </div>
-  </div>
+  
+ <div>
 ### :fire: My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdullahaltushar&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaltushar&layout=compact&theme=vision-friendly-dark)](https://github.com/abdullahaltushar)
 
-
+</div>
   
   
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
