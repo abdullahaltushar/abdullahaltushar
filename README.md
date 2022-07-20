@@ -19,7 +19,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="giphy.gif" width="600" height="300"/>
+  <img src="Harunurroshid.png" width="700" height="350"/>
 </div>
 
 ### :woman_technologist: About Me :
