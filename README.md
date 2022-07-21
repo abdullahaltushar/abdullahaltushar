@@ -58,10 +58,12 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdullahaltushar&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaltushar&theme=vue" />
 </p>
+<div align="center"> 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaltushar&langs_count=8)
 
-  
+</div>
+
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
