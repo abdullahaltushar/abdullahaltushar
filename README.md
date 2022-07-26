@@ -134,7 +134,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/abdullahaltushar/Python" title="Python"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=python&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/abdullahaltushar/Python" title="Python"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Python&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/abdullahaltushar/Neural_Network" title="Neural Network"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Neural_Network&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
