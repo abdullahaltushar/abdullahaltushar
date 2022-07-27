@@ -105,13 +105,12 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> C# </a></li>
        <li><a href="https://en.wikipedia.org/wiki/PHP"> php </a></li> 
   --->    
-     
 
-<br>
-   
+<br> 
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+  
 <br>
-<div align="center">
+<div weight="100%" align="center">
   <a align="left" href="https://github.com/abdullahaltushar/Machine_learning" title="Machine learning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Machine_learning&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/abdullahaltushar/Data_Science" title="Data Science"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Data_Science&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
@@ -120,7 +119,7 @@ You can click the Preview link to take a look at your changes.
   <a align="right" href="https://github.com/abdullahaltushar/Neural_Network" title="Neural Network"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Neural_Network&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div  align="center">
+<div align="center">
   <a align="left" href="https://github.com/abdullahaltushar/Android" title="Android"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Android&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/abdullahaltushar/Flutter/" title="Flutter"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Flutter&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -133,7 +132,6 @@ You can click the Preview link to take a look at your changes.
 <h4 align="center">
   <a href="https://github.com/abdullahaltushar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> 
-
 <br>
 
 ## Connect with me  
