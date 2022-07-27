@@ -107,20 +107,20 @@ You can click the Preview link to take a look at your changes.
   
 <br>
 <div weight="100" align="center">
-  <a align="left" href="https://github.com/abdullahaltushar/Machine_learning" title="Machine learning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Machine_learning&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/abdullahaltushar/Data_Science" title="Data Science"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Data_Science&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a  align="left" href="https://github.com/abdullahaltushar/Machine_learning" title="Machine learning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Machine_learning&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/abdullahaltushar/Data_Science" title="Data Science"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Data_Science&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div align="center">
+<div weight="100" align="center">
   <a align="left" href="https://github.com/abdullahaltushar/Python" title="Python"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Python&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/abdullahaltushar/Neural_Network" title="Neural Network"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Neural_Network&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div align="center">
+<div weight="100" align="center">
   <a align="left" href="https://github.com/abdullahaltushar/Android" title="Android"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Android&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/abdullahaltushar/Flutter/" title="Flutter"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Flutter&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div  align="center">
+<div weight="100"  align="center">
   <a align="left" href="https://github.com/abdullahaltushar/C_Sharp" title="C Sharp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=C_Sharp&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/abdullahaltushar/Natural_Language_Processing" title="Natural Language Processing"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Natural_Language_Processing&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -131,7 +131,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## Connect with me  
-<div align="center"><a href="https://www.linkedin.com/in/harunur-roshid/" target="_blank">
+<div weight="100" align="center"><a href="https://www.linkedin.com/in/harunur-roshid/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://github.com/abdullahaltushar/" target="_blank">
