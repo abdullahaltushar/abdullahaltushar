@@ -69,10 +69,6 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-
-
-
-
   
 
 <!-- 
