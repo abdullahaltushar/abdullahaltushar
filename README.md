@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   
 <br>
-<div weight="100%" align="center">
+<div weight="100" align="center">
   <a align="left" href="https://github.com/abdullahaltushar/Machine_learning" title="Machine learning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Machine_learning&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/abdullahaltushar/Data_Science" title="Data Science"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Data_Science&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
