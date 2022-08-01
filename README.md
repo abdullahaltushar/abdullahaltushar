@@ -68,9 +68,9 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 </div>
 
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-  
-
+  </br>
+<img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</br>
 <!-- 
 <h2>Hi there, I'm Harunur Roshid 👋</h1>
 <h4>I'm a CSE graduate from BGC Trust University Bangladesh</h3>
