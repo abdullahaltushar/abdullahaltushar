@@ -104,6 +104,7 @@ You can click the Preview link to take a look at your changes.
   --->    
 
 <br> 
+<hr>
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   
 <br>
@@ -129,6 +130,7 @@ You can click the Preview link to take a look at your changes.
 <h4 align="center">
   <a href="https://github.com/abdullahaltushar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> 
+
 <br>
 
 ## Connect with me  
