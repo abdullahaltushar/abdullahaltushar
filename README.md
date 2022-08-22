@@ -40,6 +40,95 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-000066?style=for-the-badge&logo=python&logoColor=silver) ![Selenium](https://img.shields.io/badge/-Selenium-%23ff0040?style=for-the-badge&logo=colab&logoColor=silver) ![Tensorflow](https://img.shields.io/badge/Tensorflow-c90502?style=for-the-badge&logo=tensorflow&logoColor=silver) ![Keras](https://img.shields.io/badge/Keras-16302f?style=for-the-badge&logo=keras&logoColor=silver) ![Pytorch](https://img.shields.io/badge/Pytorch-330101?style=for-the-badge&logo=keras&logoColor=silver) ![NLTK](https://img.shields.io/badge/NLTK-003300?style=for-the-badge&logo=nltk&logoColor=silver) ![Spacy](https://img.shields.io/badge/Spacy-024f52?style=for-the-badge&logo=spacy&logoColor=silver) ![Gensim](https://img.shields.io/badge/Gensim-c46602?style=for-the-badge&logo=gensim&logoColor=silver) ![RegEx](https://img.shields.io/badge/RegEx-010447?style=for-the-badge&logo=regex&logoColor=silver) ![Opencv](https://img.shields.io/badge/Opencv-003300?style=for-the-badge&logo=opencv&logoColor=silver) ![Numpy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=silver) ![Pandas](https://img.shields.io/badge/Pandas-3c0152?style=for-the-badge&logo=pandas&logoColor=silver) ![Matplotlib](https://img.shields.io/badge/Matplotlib-40001c?style=for-the-badge&logo=matplotlib&logoColor=silver) ![CNN](https://img.shields.io/badge/CNN-003399?style=for-the-badge&logo=cnn&logoColor=silver) ![RNN](https://img.shields.io/badge/RNN-002109?style=for-the-badge&logo=rnn&logoColor=silver) ![LSTM](https://img.shields.io/badge/LSTM-473001?style=for-the-badge&logo=lstm&logoColor=silver) ![Seaborn](https://img.shields.io/badge/-Seaborn-%234000ff?style=for-the-badge&logo=transformer&logoColor=silver) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-%23f50000?style=for-the-badge&logo=transformer&logoColor=silver)
 
+<!---start new--->
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming and markup languages
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <a href="https://github.com/abdullahaltushar/Python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/abdullahaltushar/Java"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/abdullahaltushar/COVID19_tracking"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/abdullahaltushar/Python/tree/main/tensorflow"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/abdullahaltushar/Flutter"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/abdullahaltushar/C_Sharp"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="Csharp" width="40" height="40"/>&nbsp </a>
+  <a href="https://github.com/abdullahaltushar/Numpy_in_python"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/abdullahaltushar/University_Management_System"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/abdullahaltushar/Diagnosis_Cost_and_Doctor_Information-system"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/abdullahaltushar/Diagnosis_Cost_and_Doctor_Information-system"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
+  <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;</a>
+  <a href=""></a>
+</div>
+
+### 🧰 Frameworks and libraries
+
+<p>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#><image alt="Selenium" src="https://img.shields.io/badge/-Selenium-%23ff0040?style=for-the-badge&logo=colab&logoColor=silver"></a>
+    <a href="#><image alt="Keras" src="https://img.shields.io/badge/Keras-16302f?style=for-the-badge&logo=keras&logoColor=silver"></a>
+    <a href="#><image alt="Pytorch" src="https://img.shields.io/badge/Pytorch-330101?style=for-the-badge&logo=keras&logoColor=silver"></a>
+    <a href="#><image alt="NLTK" src="https://img.shields.io/badge/NLTK-003300?style=for-the-badge&logo=nltk&logoColor=silver"></a>
+    <a href="#><image alt="Spacy" src="https://img.shields.io/badge/Spacy-024f52?style=for-the-badge&logo=spacy&logoColor=silver"></a>
+    <a href="#><image alt="Gensim" src="https://img.shields.io/badge/Gensim-c46602?style=for-the-badge&logo=gensim&logoColor=silver"></a>
+    <a href="#><image alt="RegEx" src="https://img.shields.io/badge/RegEx-010447?style=for-the-badge&logo=regex&logoColor=silver"></a>
+    <a href="#><image alt="Opencv" src="https://img.shields.io/badge/Opencv-003300?style=for-the-badge&logo=opencv&logoColor=silver"></a>
+    <a href="#><image alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-40001c?style=for-the-badge&logo=matplotlib&logoColor=silver"></a>
+    <a href="#><image alt="CNN" src="https://img.shields.io/badge/CNN-003399?style=for-the-badge&logo=cnn&logoColor=silver"></a>
+    <a href="#><image alt="RNN" src="https://img.shields.io/badge/RNN-002109?style=for-the-badge&logo=rnn&logoColor=silver"></a>
+    <a href="#><image alt="LSTM]" src="https://img.shields.io/badge/LSTM-473001?style=for-the-badge&logo=lstm&logoColor=silver"></a>
+    <a href="#><image alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-%234000ff?style=for-the-badge&logo=transformer&logoColor=silver"></a>
+    <a href="#><image alt="Scikit Learn" src="https://img.shields.io/badge/-Scikit%20Learn-%23f50000?style=for-the-badge&logo=transformer&logoColor=silver"></a>
+</p>
+
+### 🗄️ Databases and cloud hosting
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+</p>
+
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+
+
+<!---end new---->
+
+
+
+
+
+
+
+
+
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <a href="https://github.com/abdullahaltushar/Python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</a>
