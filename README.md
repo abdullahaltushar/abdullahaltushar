@@ -41,7 +41,7 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 ![Python](https://img.shields.io/badge/python-000066?style=for-the-badge&logo=python&logoColor=silver) ![Selenium](https://img.shields.io/badge/-Selenium-%23ff0040?style=for-the-badge&logo=colab&logoColor=silver) ![Tensorflow](https://img.shields.io/badge/Tensorflow-c90502?style=for-the-badge&logo=tensorflow&logoColor=silver) ![Keras](https://img.shields.io/badge/Keras-16302f?style=for-the-badge&logo=keras&logoColor=silver) ![Pytorch](https://img.shields.io/badge/Pytorch-330101?style=for-the-badge&logo=keras&logoColor=silver) ![NLTK](https://img.shields.io/badge/NLTK-003300?style=for-the-badge&logo=nltk&logoColor=silver) ![Spacy](https://img.shields.io/badge/Spacy-024f52?style=for-the-badge&logo=spacy&logoColor=silver) ![Gensim](https://img.shields.io/badge/Gensim-c46602?style=for-the-badge&logo=gensim&logoColor=silver) ![RegEx](https://img.shields.io/badge/RegEx-010447?style=for-the-badge&logo=regex&logoColor=silver) ![Opencv](https://img.shields.io/badge/Opencv-003300?style=for-the-badge&logo=opencv&logoColor=silver) ![Numpy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=silver) ![Pandas](https://img.shields.io/badge/Pandas-3c0152?style=for-the-badge&logo=pandas&logoColor=silver) ![Matplotlib](https://img.shields.io/badge/Matplotlib-40001c?style=for-the-badge&logo=matplotlib&logoColor=silver) ![CNN](https://img.shields.io/badge/CNN-003399?style=for-the-badge&logo=cnn&logoColor=silver) ![RNN](https://img.shields.io/badge/RNN-002109?style=for-the-badge&logo=rnn&logoColor=silver) ![LSTM](https://img.shields.io/badge/LSTM-473001?style=for-the-badge&logo=lstm&logoColor=silver) ![Seaborn](https://img.shields.io/badge/-Seaborn-%234000ff?style=for-the-badge&logo=transformer&logoColor=silver) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-%23f50000?style=for-the-badge&logo=transformer&logoColor=silver)
 
 <!---start new--->
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages Tools :
 <div>
   <a href="https://github.com/abdullahaltushar/Python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/abdullahaltushar/Java"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a>
@@ -66,7 +66,7 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+### 💻 Software
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
