@@ -99,6 +99,14 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaltushar&langs_count=8)
 
 </div>
+
+<div align="center"> 
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaltushar&langs_count=8)
+
+</div>
+
+
  </br>
 <div align="center"> 
   ![Harunur Roshid github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdullahaltushar&theme=tokyo-day)
