@@ -101,12 +101,9 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 </div>
  </br>
 <div align="center"> 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=abdullahaltushar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
   ![Harunur Roshid github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdullahaltushar&theme=tokyo-day)
-<!--       ](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 </div>
-
-	</br>
+</br>
 
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
  
