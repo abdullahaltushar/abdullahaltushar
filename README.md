@@ -99,10 +99,10 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaltushar&langs_count=8)
 
 </div>
- </br>
+<!--  </br>
 <img src="https://activity-graph.herokuapp.com/graph?username=abdullahaltushar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </br>
-
+ -->
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
  
 <!-- 
