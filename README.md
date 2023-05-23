@@ -149,7 +149,6 @@ You can click the Preview link to take a look at your changes.
 <br> 
 <hr>
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Machine_learning&theme=react&border_color=61dafb&border_radius=10)]
 <br>
 <div weight="100" align="center">
   <a  align="left" href="https://github.com/abdullahaltushar/Machine_learning" title="Machine learning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Machine_learning&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/abdullahaltushar/Deep_learning" title="Deep Learning"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Deep_learning&theme=react&border_color=61dafb&border_radius=10"></a>
