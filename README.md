@@ -102,7 +102,7 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 
 <div align="center"> 
 
-  ![Harunur Roshid github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdullahaltushar&theme=tokyo-day)
+  	![Harunur Roshid github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdullahaltushar&theme=tokyo-day)
 
 </div>
 
