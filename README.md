@@ -149,22 +149,22 @@ You can click the Preview link to take a look at your changes.
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div weight="100" align="center">
-  <a  align="left" href="https://github.com/abdullahaltushar/Machine_learning" title="Machine learning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Machine_learning&theme=transparent&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/abdullahaltushar/Deep_learning" title="Deep Learning"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Deep_learning&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a  align="left" href="https://github.com/abdullahaltushar/Machine_learning" title="Machine learning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Machine_learning&theme=transparent&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/abdullahaltushar/Deep_learning" title="Deep Learning"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Deep_learning&theme=transparent&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div weight="100" align="center">
-  <a align="left" href="https://github.com/abdullahaltushar/Malaria_Detector" title="Malaria Detector"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Malaria_Detector&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/abdullahaltushar/Neural_Network" title="Neural Network"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Neural_Network&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/abdullahaltushar/Malaria_Detector" title="Malaria Detector"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Malaria_Detector&theme=transparent&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/abdullahaltushar/Neural_Network" title="Neural Network"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Neural_Network&theme=transparent&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div weight="100" align="center">
-  <a align="left" href="https://github.com/abdullahaltushar/Android" title="Android"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Android&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/abdullahaltushar/javascript" title="JavaScript"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=javascript&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/abdullahaltushar/Android" title="Android"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Android&theme=transparent&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/abdullahaltushar/javascript" title="JavaScript"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=javascript&theme=transparent&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div weight="100"  align="center">
-  <a align="left" href="https://github.com/abdullahaltushar/C_Sharp" title="C Sharp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=C_Sharp&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/abdullahaltushar/Natural_Language_Processing" title="Natural Language Processing"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Natural_Language_Processing&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/abdullahaltushar/C_Sharp" title="C Sharp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=C_Sharp&theme=transparent&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/abdullahaltushar/Natural_Language_Processing" title="Natural Language Processing"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahaltushar&repo=Natural_Language_Processing&theme=transparent&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
