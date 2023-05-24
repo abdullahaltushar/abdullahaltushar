@@ -26,7 +26,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="30"> from Bangladesh <img src="flag.png" width="30">.
+🖐I'm Harunur Roshid<img src="machine.gif" width="30"> from Bangladesh <img src="flag.png" width="30">.
 
 - :telescope: I’m working as a Software Engineer and contributing to Research and Development. 
 - :seedling: I'm interested in Deep Learning, Natural Language Processing, and Advance AI.
