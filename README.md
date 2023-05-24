@@ -28,8 +28,10 @@
 ### :woman_technologist: About Me :
 🖐I'm Harunur Roshid<img src="machine.gif" width="30"> from Bangladesh <img src="flag.png" width="30">.
 
-- :telescope: I’m working as a Software Engineer and contributing to Research and Development. 
-- :seedling: I'm interested in Deep Learning, Natural Language Processing, and Advance AI.
+- :telescope: I'm a software developer with expertise in Django and Django Rest Framework (DRF). I'm passionate about building robust and scalable web applications using these technologies. I have experience in developing RESTful APIs, designing database models, and implementing complex business logic..
+- 🤖 Additionally, I have a keen interest in machine learning and data science. I enjoy exploring algorithms, working with data, and building predictive models. I'm familiar with popular machine learning libraries and frameworks such as scikit-learn and TensorFlow.
+- 🕸️ Another area of my expertise is web scraping. I have experience in extracting data from various websites, automating data collection tasks, and parsing HTML and XML data using tools like BeautifulSoup and Scrapy. 
+- 🌱 I'm always eager to learn and expand my skills in new technologies and frameworks. I believe in writing clean and maintainable code and following best practices in software development. Collaborating with others and contributing to open-source projects is something I value.
 - :zap:Fun fact: I love to watch movies, TV Serials and Travel
 
 - :zap: Fun Goals: Learn to Cook, Travel many countries around the world.
