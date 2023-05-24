@@ -101,7 +101,7 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 </div>
 
 <div align="center"> 
-	<img width="48%" src="https://github-readme-activity-graph.cyclic.app/graph?username=abdullahaltushar&theme=tokyo-day"/>
+<!-- 	<img width="48%" src="https://github-readme-activity-graph.cyclic.app/graph?username=abdullahaltushar&theme=tokyo-day"/> -->
 </div>
 
 
