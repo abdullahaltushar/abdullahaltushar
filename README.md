@@ -93,7 +93,7 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 
 ## :fire: My Stats :
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdullahaltushar&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdullahaltushar&show_icons=true&theme=transparent" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaltushar&theme=vue" />
 </p>
 <div align="center"> 
