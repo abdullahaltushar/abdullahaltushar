@@ -98,6 +98,7 @@ I am a Machine Learning And Data Science Engineer <img src="machine.gif" width="
 </p>
 <div align="center"> 
 	![Harunur Roshid GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahaltushar&show_icons=true&theme=transparent)
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaltushar&theme=vue" />
 </div>
 
 <div align="center"> 
