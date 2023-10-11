@@ -32,8 +32,9 @@
 - 🤖 Additionally, I have a keen interest in machine learning and data science. I enjoy exploring algorithms, working with data, and building predictive models. I'm familiar with popular machine learning libraries and frameworks such as scikit-learn and TensorFlow.
 - 🕸️ Another area of my expertise is web scraping. I have experience in extracting data from various websites, automating data collection tasks, and parsing HTML and XML data using tools like BeautifulSoup and Scrapy. 
 - 🌱 I'm always eager to learn and expand my skills in new technologies and frameworks. I believe in writing clean and maintainable code and following best practices in software development. Collaborating with others and contributing to open-source projects is something I value.
-- :zap:Fun fact: I love to watch movies, TV Serials and Travel
-
+- :zap: Fun fact: I love to watch movies, TV Serials, and Travel
+- ♥️  I enjoy programming and sharing knowledge
+- 💻  Most used line of code print("hello world")
 - :zap: Fun Goals: Learn to Cook, Travel many countries around the world.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harunur-roshid/)
