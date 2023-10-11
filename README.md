@@ -57,6 +57,7 @@
   <a href="https://github.com/abdullahaltushar/Diagnosis_Cost_and_Doctor_Information-system"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
   <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;</a>
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;</a>
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" titile="FastApi" alt="FastApi" width="40" height="40"/>&nbsp;</a>
 </div>
 
 ### 🗄️ Databases and cloud hosting
