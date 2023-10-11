@@ -95,12 +95,12 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="pycharm" src ="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>  
-    <a href="#"><img alt="Trello" src ="https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white"></a>  
-    <a href="#"><img alt="Zoom" src ="https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white"></a>  
-    <a href="#"><img alt="Sublimetext" src ="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white"></a>  
-    <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>  
-    <a href="#"><img alt="Visual Studio" src ="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>  
-    <a href="#"><img alt="Visual Box" src ="https://img.shields.io/static/v1?style=for-the-badge&message=VirtualBox&color=183A61&logo=VirtualBox&logoColor=FFFFFF&label="></a>  
+    <a href="#"><img alt="Trello" src ="https://img.shields.io/badge/Trello-0079BF.svg?logo=trello&logoColor=white"></a>  
+    <a href="#"><img alt="Zoom" src ="https://img.shields.io/badge/Zoom-2D8CFF.svg?logo=zoom&logoColor=white"></a>  
+    <a href="#"><img alt="Sublimetext" src ="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?logo=sublime-text&logoColor=white"></a>  
+    <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>  
+    <a href="#"><img alt="Visual Studio" src ="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>  
+    <a href="#"><img alt="Visual Box" src ="https://img.shields.io/static/v1?logo=VirtualBox&logoColor=FFFFFF&label="></a>  
      
 	
 </p>
