@@ -70,6 +70,7 @@
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label="></a>
+    <a href="#"><img alt="Microsoft Office" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label="></a>    
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="SQLite" src="https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label="></a>
