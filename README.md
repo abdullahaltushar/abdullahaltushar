@@ -34,7 +34,8 @@
 - 🌱 I'm always eager to learn and expand my skills in new technologies and frameworks. I believe in writing clean and maintainable code and following best practices in software development. Collaborating with others and contributing to open-source projects is something I value.
 - :zap: Fun fact: I love to watch movies, TV Serials, and Travel
 - ♥️ I enjoy programming and sharing knowledge
-- 💻 Most used line of code <p style="background-color: black; color: white; padding: 50px; width:100px;"><pre><code>print("hello world")</code></pre></p>
+- 💻 Most used line of code <div style="background-color: black; padding: 10px; width: 300px;"><pre style="white-space: pre-wrap; color: white;"><code>print("hello world")</code></pre></div>
+
 - :zap: Fun Goals: Learn to Cook and travel to many countries around the world.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harunur-roshid/)
