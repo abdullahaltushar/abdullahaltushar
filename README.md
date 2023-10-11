@@ -34,7 +34,7 @@
 - 🌱 I'm always eager to learn and expand my skills in new technologies and frameworks. I believe in writing clean and maintainable code and following best practices in software development. Collaborating with others and contributing to open-source projects is something I value.
 - :zap: Fun fact: I love to watch movies, TV Serials, and Travel
 - ♥️ I enjoy programming and sharing knowledge
-- 💻 Most used line of code <div style="background-color: black; padding: 10px; width: 300px;"><pre style="white-space: pre-wrap; color: white;"><code>print("hello world")</code></pre></div>
+- 💻 Most used line of code <code>print("hello world")</code>
 
 - :zap: Fun Goals: Learn to Cook and travel to many countries around the world.
 
