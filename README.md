@@ -33,9 +33,9 @@
 - 🕸️ Another area of my expertise is web scraping. I have experience in extracting data from various websites, automating data collection tasks, and parsing HTML and XML data using tools like BeautifulSoup and Scrapy. 
 - 🌱 I'm always eager to learn and expand my skills in new technologies and frameworks. I believe in writing clean and maintainable code and following best practices in software development. Collaborating with others and contributing to open-source projects is something I value.
 - :zap: Fun fact: I love to watch movies, TV Serials, and Travel
-- ♥️  I enjoy programming and sharing knowledge
-- 💻  Most used line of code print("hello world")
-- :zap: Fun Goals: Learn to Cook, Travel many countries around the world.
+- ♥️ I enjoy programming and sharing knowledge
+- 💻 Most used line of code <div style="background-color: black; color: white; padding: 10px;"><pre><code>print("hello world")</code></pre></div>
+- :zap: Fun Goals: Learn to Cook and travel to many countries around the world.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harunur-roshid/)
 
