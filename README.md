@@ -100,7 +100,7 @@
     <a href="#"><img alt="Sublimetext" src ="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?logo=sublime-text&logoColor=white"></a>  
     <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>  
     <a href="#"><img alt="Visual Studio" src ="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>  
-    <a href="#"><img alt="Visual Box" src ="https://img.shields.io/static/v1?logo=VirtualBox&logoColor=FFFFFF&label="></a>  
+    <a href="#"><img alt="Visual Box" src ="https://img.shields.io/badge/VirtualBox-183A61.svg?logo=virtualbox&logoColor=white"></a>  
      
 	
 </p>
